@@ -64,3 +64,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<h1>Simple Store Management Information Systems<h1/>
+    <h3>User Login<h3/>
+        UserName: Administrator
+        Password:  123
+        <h3>Images from System</h3>
+         <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/1.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/2.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/3.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/4.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/5.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/6.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/7.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/8.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/9.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/10.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/11.png?raw=true" white="100px" hight="auto"/>
+        <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/12.png?raw=true" white="100px" hight="auto"/>
+    
