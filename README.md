@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <h1>Simple Store Management Information Systems<h1/>
     <h3>User Login<h3/>
-        UserName: Administrator
+        UserName: Administrator <br>
         Password:  123
         <h3>Images from System</h3>
          <img src="https://github.com/OmranAbhar/laravel-8-simple-Project/blob/main/SystemImage/1.png?raw=true" white="100px" hight="auto"/>
